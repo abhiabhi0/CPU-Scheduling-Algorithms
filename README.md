@@ -1,2 +1,4 @@
 # CPU-Scheduling-Algorithms
-dsd
+Shortest Job First Preemptive
+Priority
+Round Robin
