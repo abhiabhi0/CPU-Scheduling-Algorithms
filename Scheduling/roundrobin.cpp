@@ -7,7 +7,7 @@
 #include "roundrobin.h"
 
 RoundRobin::RoundRobin(unsigned num, unsigned quantum): Scheduler(num)
-}
+                                                        {}
 
 void RoundRobin::calcEndTime()
 {
